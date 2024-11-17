@@ -1,9 +1,5 @@
 """
 Illustrative Experiment on the Usefulness of Sparse Coding Networks for Continual Learning
-
-Author: Ali Safa
-College of Science and Engineering
-Hamad Bin Khalifa University, Doha, Qatar
 """
 
 
